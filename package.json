@@ -1,5 +1,5 @@
 {
-  "name": "custom-sails-mysql-live-select",
+  "name": "sails-mysql-live-select",
   "version": "0.1.1",
   "description": "MySQL Live Select for Sails.js",
   "main": "lib/adapter.js",
