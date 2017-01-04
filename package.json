@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/numtel/sails-mysql-live-select.git"
+    "url": "git://github.com/rishab-yumist/sails-mysql-live-select.git"
   },
   "keywords": [
     "mysql",
@@ -16,11 +16,11 @@
     "select",
     "sails"
   ],
-  "author": "Ben Green <ben@latenightsketches.com>",
+  "author": "Ben Green",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "mysql-live-select": "^1.0.3",
+    "mysql-live-select": "git+https://git@github.com/rishab-yumist/mysql-live-select.git",
     "sails-mysql": "^0.11.0",
     "waterline-errors": "~0.10.0",
     "waterline-sequel": "~0.5.0"
