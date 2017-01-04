@@ -20,7 +20,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "mysql-live-select": "^1.0.3",
+    "mysql-live-select": "git+https://git@github.com/rishab-yumist/mysql-live-select.git",
     "sails-mysql": "^0.11.0",
     "waterline-errors": "~0.10.0",
     "waterline-sequel": "~0.5.0"
